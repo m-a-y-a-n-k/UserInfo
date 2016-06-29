@@ -1,0 +1,5 @@
+<root>
+  <item name='android.database.Cursor byte[] getBlob(int)'>
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>
