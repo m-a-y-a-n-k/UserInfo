@@ -7,5 +7,5 @@ Basically this app demonstrates how to :
   
 You can help us out in :
 
-  1. Retrieving a image back from database (on basis of a query done in another activity) and populating it to an imageview in yet     another activity.
+  1. Retrieving an image back from database (on basis of a query done in another activity) and populating it to an imageview in yet     another activity.
   2. Suggesting edits/modifiactions in this application ( if any )........
